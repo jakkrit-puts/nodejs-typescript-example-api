@@ -1,4 +1,4 @@
-"# example nodejs-typescript-crud-api" 
+"# nodejs-typescript-example-api
 
 ### Usage
 ```
