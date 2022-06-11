@@ -1,4 +1,5 @@
-"# nodejs-typescript-example-api
+# nodejs-typescript-example-api
+---------------------------------------
 
 ### Usage
 ```
